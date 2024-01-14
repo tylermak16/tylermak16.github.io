@@ -22,10 +22,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
-    },
-    {
-      "name": "",
-      "keywords": []
     }
   ],
   "education": [
@@ -35,12 +31,10 @@
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [ "ICS 111,211,212,311,314"
-      ]
+      "courses": [ "ICS 111,211,212,311,314"]
     }
   ],
-  "work": [
-  ],
+  "work": [],
   "volunteer": [
     {
       "organization": "",
