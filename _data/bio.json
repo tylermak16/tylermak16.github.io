@@ -6,7 +6,7 @@
     "email": "tylermak@hawaii.edu",
     "phone": "808-232-7103",
     "website": "https://tylermak16.github.io",
-    "summary": "I am studying for a Masters in ICS - Data Science at University of Hawai'i at Manoa. I am currently a sophomore." 
+    "summary": "I am studying for a Masters in ICS - Data Science at University of Hawai'i at Manoa. I am currently a sophomore.", 
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tylermak16", "url": "http://github.com/tylermak16.github.io" },
@@ -43,8 +43,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": [}
     }
   ],
   "references": [
