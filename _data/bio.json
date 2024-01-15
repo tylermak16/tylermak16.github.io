@@ -9,7 +9,7 @@
     "summary": "I am studying for a Masters in ICS - Data Science at University of Hawai'i at Manoa. I am currently a sophomore.", 
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "tylermak16", "url": "http://github.com/tylermak16.github.io" },
+      { "network": "github", "username": "tylermak16", "url": "http://github.com/tylermak16" },
       { "network": "linkedin", "username": "tylermak", "url": "https://www.linkedin.com/in/hi-tylermak/" }
     ]
   },
