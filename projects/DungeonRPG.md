@@ -10,12 +10,6 @@ labels:
 summary: "I developed a turn based rpg dungeoning game with procedurally generated encounters with difficulty scaling with your level. This game requires you to manage your resources and judging when you should take a risky move or to fall back and live another day."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 DungeonRPG was a project for AP Computer Science A with the goal of getting us familiar with creating programs that rely on user input from the console. Some additional features I added to my RPG include a party system, different character classes and abilities, various status afflictions, and multiple bosses. 
 
 Here is a chunk of codethat shows a failed attempt at escaping an enemy encounter:
