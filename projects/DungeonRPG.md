@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/campfire.jpg
 title: "DungeonRPG"
 date: 2022-04-01
 published: true
