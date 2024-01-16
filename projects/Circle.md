@@ -7,5 +7,5 @@ date: 2023
 published: true
 labels:
   - "C++"
-summary: "A program that creates a Circle and Cylinder subclass to streamline mathematical calculations involving these shapes. Operations include calculating surface area and volume.
+summary: "A program that creates a Circle and Cylinder subclass to streamline mathematical calculations involving these shapes. Operations include calculating surface area and volume."
 ---
