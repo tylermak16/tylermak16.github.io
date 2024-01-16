@@ -1,0 +1,39 @@
+---
+layout: project
+type: project
+image: img/stats.jpg
+title: "Probability"
+date: 2023
+published: true
+labels:
+  -Java
+summary: "An interface that allows the user to create their own statistical experiments/sample spaces, variables, and events to perform probabilistic calculations and operations."
+
+Here is some code showing some basic operations/calculations that you can use in an experiment: 
+```
+private static int Factorial(int number) {
+        int total = 1;
+        while (number > 1) {
+            total = total * number;
+            number -= 1;
+        }
+        return total;
+    }
+
+    public static int Permutations(int set, int setGroup) {
+        if (setGroup > set) {
+            return 0;
+        } else {
+            return Factorial(set) / Factorial(set - setGroup);
+        }
+    }
+
+    public static int Combinations(int set, int setGroup) {
+        if (setGroup > set) {
+            return 0;
+        } else {
+            return Factorial(set) / (Factorial(setGroup) * Factorial(set - setGroup));
+        }
+    }
+```
+
