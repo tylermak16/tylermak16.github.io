@@ -6,7 +6,7 @@ title: "Probability"
 date: 2023
 published: true
 labels:
-  -Java
+  - Java
 summary: "An interface that allows the user to create their own statistical experiments/sample spaces, variables, and events to perform probabilistic calculations and operations."
 ---
 
