@@ -36,4 +36,5 @@ private static int Factorial(int number) {
         }
     }
 ```
+---
 
