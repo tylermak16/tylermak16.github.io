@@ -12,7 +12,7 @@ summary: "An interface that allows the user to create their own statistical expe
 
 This project was created during my free time while I was learning about permutations and combinations from discrete mathematics. The program prompts user input from the console to create or load a new experiment. The user can create events/variables as well as group them together. They would then be able to assign properties to them, such as the amount or probability and invoke operations to see what the outcome would be. This project is not finished as I plan to keep adding functionality and improving the user interface as I learn more about probablity and statistics.
 
-Here is some code showing some basic operations/calculations that you can use in an experiment: 
+Here is some code from my program showing some basic operations/calculations that can be used in experiments:
 ```
 private static int Factorial(int number) {
         int total = 1;
