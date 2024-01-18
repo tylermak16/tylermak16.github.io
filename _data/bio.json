@@ -28,7 +28,7 @@
     {
       "institution": "Leeward Community College, Honolulu, HI",
       "area": "Computer Science",
-      "studyType": : "AS",
+      "studyType": "AS",
       "startDate": "2022-09-01",
       "endDate": "2023-12-15",
       "courses": ["ICS 141,211,212,241"]
