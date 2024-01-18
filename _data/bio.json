@@ -14,7 +14,7 @@
     ]
   },
   "interests": [
-    { "name": "Deep Learning / Machine Learning"},
+    { "name": "Machine Learning"},
     { "name": "Neuroscience" },
     { "name": "Sustainability" }
   ],
@@ -26,11 +26,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
-      "studyType": "B.S.",
+      "institution": "Leeward Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": : "AS",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2023-12-15",
+      "courses": ["ICS 141,211,212,241"]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Data Science (expected Spring, 2026)",
+      "studyType": "B.S. , MS ",
+      "startDate": "2024-01-08",
+      "endDate": "2026",
       "courses": [ "ICS 111,211,212,311,314"]
     }
   ],
