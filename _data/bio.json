@@ -14,9 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Machine Learning"},
+    { "name": "Machine Learning / Deep Learning"},
+    { "name": "Big data"},
     { "name": "Neuroscience" },
-    { "name": "Sustainability" }
+    { "name": "Sociology/Psychology"},
+    { "name": "Sustainability"}
   ],
   "skills": [
     {
