@@ -9,7 +9,7 @@ labels:
 ---
  Javascript Reflection
 
-From what I've learned about Javascript, it is one of the more higher level languages that I know, other than python. Considering that many features seem to be automated, like the type of variables, it seems that its definitely for more casual users who don't have to create programs where every bit of efficiency matters, which would make sense if javascript is popular for web development. However, i'm not so sure about how I feel about ES6 syntax and how useful it is. I think the sheer amount of it made it hard to remember the exact syntaxes and trying to remember them would take more time than it could potentially save when doing WODS.
+From what I've learned about Javascript, it is one of the more higher level languages that I know, other than python. Considering that many features seem to be automated, like the type of variables, it seems that its definitely for more casual users who don't have to create programs where every bit of efficiency matters rather than large groups of people in a company. However, recently, I had the opportunity to talk with some professionals in IT and cybersecurity who explained to me the importance of code being user friendly so that it could be maintained long term when inevitably new pairs of eyes have to work with the code. In regards to ES6 syntax, i'm not so sure about how I feel about how useful it is. I think the sheer amount of it made it hard to remember the exact syntaxes and solving the potential errors from writing the wrong syntax would take more time than it could potentially save when doing WODS. 
 
  Thoughts on ICS 314 Learning Style 
 
