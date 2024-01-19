@@ -16,7 +16,8 @@ Software engineering is a blanket term used to describe the process or approach 
 ## Why I started My Journey in Data Science and A.I
 
 When it comes to my career and what I want to do in life, I aspire to be a machine learning engineer and work with A.I in general. This was because I was amazed by the wide ranging applications of machine learning to create functionality in applications that wouldn't be practical otherwise and how it can be used to effectively parse through data to generate new insights. I discovered that I wanted to pursue data science and machine learning because the more I learned about different topics and academic disciplines the more patterns and connections I found between them, similar to machine learning models. Learning how everything is interconnected and how they influence each other allowed me to better appreciate the world I live in and evoked my passion for learning. Data science and machine learning would help me work with my passion because I could utilize machine learning applications to analyze data and discover novel insights about different disciplines due to virtually everything having the capacity to be represented as data.
-<p><img src = "https://ai-fall2021.ai2es.org/wp-content/uploads/2021/06/AI_VennDiagram-1-1024x689.png" /></p>
+<img class="img-fluid" src="https://ai-fall2021.ai2es.org/wp-content/uploads/2021/06/AI_VennDiagram-1-1024x689.png">
+
 
 
 ## Why Software Engineering Matters in Data Science
