@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Why You Should Learn Software Engineering If You Want To Work With A.I"
 date: 2024-01-18
-published: false
+published: true
 labels:
   - Business and Career
   - Software Engineering
