@@ -43,19 +43,8 @@
       "endDate": "2026",
       "courses": [ "ICS 111,211,212,311,314"]
     }
-  ],
-  "work": [],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    }
-  ],
+  ]
+  ,
   "references": [
     {
       "name": "Available upon request"
