@@ -11,89 +11,17 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+Every software engineer gets stuck from time to time in their line of work. Typically, when you are dealing with a difficult technical problem, asking for help or guidance from the community can be very effective in resolving your issue in a timely manner. However, the returns you might get from asking for help heavily depend on the quality of your question. Approaching asking questions in a smart way allows readers to understand your issue as efficiently as possible without possible confusion and to post your question in the appropriate forum so that it can reach the most amount of people. A smart question is something that could not be easily resolved through a quick google search and is not answered explicitly in a manual/guide. You will know if your question is smart if it through its resolution, other users are able to learn from it and use it as reference.
 
-## Is there such thing as a stupid question?
+An example of a smart question is the stack overflow page "How to do this in Typescript: using the default value when the computed property does not exist?". Although the title could use a bit of refinement in what exactly they are trying to accomplish in Javascript, their overall goal is clear. In their question, they gave clear examples, using minimal code, to show what they are trying to accomplish, showing precision in defining their problem. The poster also provided the corresponding compiler error to their code and their failed attempt to resolve it after searching the web, showing that it might be worth while for people to assist with. At the end, the poster summarized how the issue was resolved, citing the multiple ways to fix the issue with proper citations. 
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+In contrast, the stack overflow page titled Oracle JDK 17 license is an example of a bad question and is ineffective at getting a meaningful answer. The first blunder of the question was the ambigous title which tells users nothing about what the post is really about. Moreover, the real question can be answered in a yes or no format and has typos. Last but not least, the question is not appropriate for stackoverflow as it does not pertain to programming or development, resulting in it being closed by the site. 
 
-## What’s a smart question?
+Therefore, Smart questions in the context of software engineering involve asking for help or guidance in a way that maximizes the likelihood of receiving meaningful and efficient assistance. A smart question provides clarity, specificity, and the demonstration of effort to ensure it isn't trivial. Smart questions are those that cannot be easily resolved through a quick google search or found explicitly in a manual or guide. Lastly, its resolution should contribute to the learning of other users.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+https://stackoverflow.com/questions/70166033/how-to-do-this-in-typescript-using-the-default-value-when-the-computed-property
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+https://stackoverflow.com/questions/77879113/oracle-jdk-17-license
 
-```
-Q: python date of the previous month
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
