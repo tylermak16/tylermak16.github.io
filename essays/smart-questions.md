@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Get Smart with Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-24
-published: false
+published: true
 labels:
   - Questions
-  - Answers
   - StackOverflow
 ---
 
