@@ -14,4 +14,4 @@ After experiencing a bit of html, css and the bootstrap framework, I can say con
 
 I think I struggled with bootstrap partly because I couldn't sink a lot of time into it, but the guides to it were not as precise as they could be and relied on you experimenting a lot for yourself. Moreover, I had trouble finding how to precisely adjust elements through html and css. 
 An example of a website I made in an assignment with heavy assistance: 
-<img class = img fluid src = "Screenshot 2024-02-22 222655.png">
+<img class = "img-fluid" src = "img/Screenshot 2024-02-22 222655.png">
