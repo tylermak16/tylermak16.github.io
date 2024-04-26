@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Don't Reinvent the Wheel"
+title: "Don't Reinvent the Wheel, Design Patterns And How They Make the Process of Software Engineering More Smooth "
 date: 2024-04-25
-published: false
+published: true
 labels:
   - Software Engineering
 ---
@@ -15,4 +15,6 @@ When it comes to creating software, every programmer has encountered or utilized
 
 ## How Design Patterns Have Helped Me
 
-From my experience with the Javascript framework Meteor and database program MongoDB, I was able to utilize the flexibility provided by Javascript to its fullest extent. An example of the significance and how prevalent design patterns are in my current work are the combination of the design patterns centered around the model view controller (MVC) architecture to decouple changes to the database from the user, but also allowing for user input to request for data through observers (functions that detect user action and allows the program to output some response). This could even include utilizing user input to create new instances of objects from the data, called factories. The functionality provided by design patterns help me create larger and more useful software that would otherwise take much longer time to create from scratch. For the average software engineer, the usefulness of design patterns are tried and true and learning about them can help you better plan out the layout of your program and built it efficiently. 
+From my experience with the Javascript framework Meteor and database program MongoDB, I was able to utilize the flexibility provided by Javascript to its fullest extent. An example of the significance and how prevalent design patterns are in my current work are the combination of the design patterns centered around the model view controller (MVC) architecture to decouple changes to the database from the user, but also allowing for user input to request for data through observers (functions that detect user action and allows the program to output some response). This could even include utilizing user input to create new instances of objects from the data, called factories. The functionality provided by design patterns help me create larger and more useful software that would otherwise take much longer time to create from scratch.
+
+For the average software engineer, the usefulness of design patterns are tried and true and learning about them can help you better plan out the layout of your program and built it efficiently. 
