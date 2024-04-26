@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Don't Reinvent the Wheel, Design Patterns And How They Make the Process of Software Engineering More Smooth "
+title: "Don't Reinvent the Wheel, Smooth Development with Design Patterns"
 date: 2024-04-25
 published: true
 labels:
