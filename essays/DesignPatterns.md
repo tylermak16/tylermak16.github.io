@@ -6,6 +6,8 @@ date: 2024-04-25
 published: true
 labels:
   - Software Engineering
+  - Meteor
+  - MongoDB
 ---
 ## Design Patterns in Software Engineering
 
