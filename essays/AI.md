@@ -1,5 +1,5 @@
 ### I. Introduction
-
+Recently, the development of AI and its implementation in software has skyrocketed, creating new functionality and applications for consumers and workers alike. In software engineering, for example, AI is being used to assist in creating and structuring code, with the latest AI software being able to create entire software front to back from a text prompt. 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
