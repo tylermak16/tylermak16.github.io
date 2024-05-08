@@ -1,7 +1,20 @@
+---
+layout: essay
+type: essay
+title: "The Exponential Rise of A.I. Is Skynet in our Future?"
+date: 2024-05-07
+published: false
+labels:
+  - Software Engineering
+  - Artificial Intelligence
+  - ChatGPT
+---
 ### I. Introduction
-Recently, the development of AI and its implementation in software has skyrocketed, creating new functionality and applications for consumers and workers alike. In software engineering, for example, AI is being used to assist in creating and structuring code, with the latest AI software being able to create entire software front to back from a text prompt. 
+Recently, the development of AI and its implementation in software has skyrocketed, creating new functionality and applications for consumers and workers alike. In software engineering, for example, AI is being used to assist in creating and structuring code, with the latest AI software being able to create entire software front to back from a text prompt. A.I is allowing software engineers to create software more efficiently and focus more on the structure of the software and functionality more than all the details on how to implement it, such is the trend of software development and user interfaces. However, some fear that we will become too reliant on A.I applications to do our work.  
 
 ### II. Personal Experience with AI:
+
+Personally, I can see where people who think using A.I in your work can 
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
