@@ -29,21 +29,21 @@ For my final project, I've used A.I to help me understand some of the details/co
   6. Learning a concept / tutorial
 I've used ChatGPT pretty extensively to help me get a surface level understanding of concepts or details I might have missed about a topic. ChatGPT excels at compiling and summarizing important subtopics. It also can give me in depth and personalized answers to any question I may have until I am satisfied. Some examples include what I should do to prepare for a career fair, what do we learn in first semester physics, and how to make a clean reinstall of meteor.
   7. Answering a question in class or in Discord
-
+I have never answered a question in class or in Discord, so I have never used AI for that purpose. If I did get stuck while coding, I would ask ChatGPT on how to fix it if I couldn't understand what the error was.
   8. Asking or answering a smart-question
-
+I have never asked or answered a smart question, so I have never used AI for that purpose.
   9. Coding example e.g. “give an example of using Underscore .pluck”
-
+An example of my A.I usage in coding would be when I asked ChatGPT how to code in html and css, so it could give me a more summarized rundown/refresher on it.
   10. Explaining code
-
+I've used ChatGPT to help me understand what could be wrong with my code and how to improve upon it if there are redundancies.
   11. Writing code
-
+I often pass in my code into ChatGPT so that it can fix any errors. I typically don't use it to create too much as it can implement or pull upon functions and methods to solve a problem in a way that I have no knowledge of.
   12. Documenting code
-
+I have not used A.I to document code, but thinking about it, I definitely would in the future as ChatGPT would be perfect at adding comments to code and spitting out testcases better than I can, saving me time from doing repetitive work.
   13. Quality assurance 
-
+I have used ChatGPT extensively to ensure my code is eslint error free and to check if the logic in my code is faulty or not.
   14. Other uses in ICS 314 not listed above
-
+N/A
 
 ### III. Impact on Learning and Understanding:
 
