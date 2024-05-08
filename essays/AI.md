@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The "
+title: "Artificial Learning? "
 date: 2024-05-07
-published: false
+published: true
 labels:
   - Software Engineering
   - Artificial Intelligence
@@ -11,6 +11,7 @@ labels:
 ---
 ### I. Introduction
 Recently, the development of AI and its implementation in software has skyrocketed, creating new functionality and applications for consumers and workers alike. In software engineering, for example, AI is being used to assist in creating and structuring code, with the latest AI software being able to create entire software front to back from a text prompt. A.I is allowing software engineers to create software more efficiently and focus more on the structure of the software and functionality more than all the details on how to implement it, such is the trend of software development and user interfaces. However, some fear that we will become too reliant on A.I applications to do our work.  
+<img src = "https://hospitalityinsights.ehl.edu/hubfs/ChatGPT-1.jpg">
 
 ### II. Personal Experience with AI:
 
@@ -49,6 +50,8 @@ N/A
 I think that overall, AI has helped me learn better by summarizing information for me to comprehend more efficiently than a google search could at times. Moreover, it has saved me time from getting stuck on trivial things on homeworks or covering things I might have missed. If anything, the amount of time I had to divert to other classes was much more significant as to the difficulty of learning some concepts in the class. 
 ### IV. Practical Applications:
 Beyond academia, AI finds extensive application in real-world software projects, streamlining development processes and improving efficiency. Collaborative initiatives like the HACC demonstrate AI's effectiveness in addressing complex challenges, showcasing its potential to revolutionize software engineering practices on a global scale.
+<img src = "https://news.columbia.edu/sites/default/files/styles/cu_crop/public/content/2023/artificial-intelligence.jpg?itok=8KSVUG8e">
+
 ### V. Challenges and Opportunities:
 While AI presents numerous advantages, challenges such as reliance on pre-existing models and potential bias warrant consideration. However, opportunities for further integration abound, particularly in refining AI algorithms to better align with software engineering pedagogy and addressing evolving industry demands.
 
@@ -62,3 +65,5 @@ Considering the future, AI's role in software engineering education is set to gr
 Looking back on my experience with AI in software engineering education, I see its potential to reshape learning and development practices positively. By integrating AI as a complement to traditional methods rather than a replacement, educators can enhance student outcomes and prepare them for the evolving tech landscape.
 
 In conclusion, a balanced approach to AI integration in software engineering education, mindful of its implications, will maximize its benefits in shaping the engineers of tomorrow.
+<img src = "https://web-cdn.yipinstitute.org/6580bf6203485cf15c72a4f1/658e801fcf5a7d093d383fcb_6483ab2bb8e15bbbaf91e1c4_1500x1000-AI-books.jpeg">
+
