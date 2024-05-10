@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "Exploring Fundamental Software Engineering Concepts"
