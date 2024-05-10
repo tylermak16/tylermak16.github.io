@@ -28,4 +28,4 @@ In software engineering, design patterns are indispensable for crafting the infr
 
 An example of this being the model view controller (MVC) architecture which decouple changes to the database from the user while still allowing for user input to request for data. 
 
-<img src = "https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Schaubilder/applying-design-patterns.png>" width=300 height=200>
+<img src = "https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Schaubilder/applying-design-patterns.png" width=300 height=200>
