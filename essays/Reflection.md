@@ -1,4 +1,3 @@
-![image](https://github.com/tylermak16/tylermak16.github.io/assets/156562056/d701e7de-83ac-4739-a357-8076662650be)![image](https://github.com/tylermak16/tylermak16.github.io/assets/156562056/56100a8d-3c21-4ea9-bab8-df19ae899480)---
 layout: essay
 type: essay
 title: "Exploring Fundamental Software Engineering Concepts"
