@@ -22,6 +22,8 @@ Configuration Management is the cornerstone of creating maintainable and organiz
 
 Functional Programming offers a paradigm shift in how we approach software design, facilitating higher abstraction and functionality of programs by allowing functions to be passed and returned as parameters of another function. Data is also immutable, encouraging programmer to create new modified data structures to show transformation of data, resulting in more simple behavior of data that improves readability of a programs behavior. Overall, functional programming offers a fresh perspective on software design, promoting higher levels of abstraction, modularity, and simplicity. By embracing functional programming principles, developers can write code that is more expressive, reusable, and resilient to change, ultimately leading to more robust and scalable software systems.
 
+<img src = "https://files.realpython.com/media/TUT19---Functional-Programming_Watermarked.7c5a8382c298.jpg" width=300 height = 200>
+
 # Design Patterns:
 
 Design patterns indeed offer reusable solutions to common software design problems, serving as building blocks for creating modular, scalable, and maintainable software systems. However, their significance extends beyond the realm of software engineering, playing a pivotal role in various engineering disciplines to create reliable and functional solutions across diverse domains.
