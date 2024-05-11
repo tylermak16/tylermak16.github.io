@@ -26,6 +26,11 @@ Logged in
 
 This page provides the available exercises at the WRC and useful information about the purpose of them and how to perform them. 
 
-<img src = "../img/wrc-1.png">
+<img src = "../img/wrc-1.png" width=600 height=400>
 
-# BuddyPage
+# What I learned
+
+
+Certainly, here's a more concise version:
+
+Throughout our project's design process, I learned firsthand the critical role of software engineering principles like configuration management, design patterns, coding standards, and user interface frameworks. For example, we applied the MVC design pattern with Bootstrap to enable user interactions such as favoriting exercises and managing schedules. Collaboration was smooth thanks to configuration management, ensuring each team member's work didn't conflict with others'. Adhering to coding standards kept our codebase clear and readable, while leveraging UI frameworks streamlined interface development. These principles were essential in building a cohesive, functional application.
