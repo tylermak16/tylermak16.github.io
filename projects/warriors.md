@@ -26,6 +26,6 @@ Logged in
 
 This page provides the available exercises at the WRC and useful information about the purpose of them and how to perform them. 
 
-<img src = "img/wrc-1.png">
+<img src = "../img/wrc-1.png">
 
 # BuddyPage
