@@ -1,4 +1,4 @@
-![image](https://github.com/tylermak16/tylermak16.github.io/assets/156562056/09ce61f4-75ca-40a1-a659-c2188425b9e5)---
+---
 layout: essay
 type: essay
 title: "Get Smart with Smart Questions"
