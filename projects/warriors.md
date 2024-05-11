@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/stats.jpg
+image: "https://manoa.hawaii.edu/news/attachments/img6420_3975l.jpg"
 title: "RCWarriors"
 date: 2024-05-10
 published: true
