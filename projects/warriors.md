@@ -17,11 +17,7 @@ Rec Center Warriors is a custom social platform tailored for the University of H
 
 # Home Page
 
-Sign up / login 
-
 <img src = "https://syntax-souljahs.github.io/img/landing-page.png" width=600 height=400>
-
-Logged in
 
 <img src ="https://isai-foglesong.github.io/img/LandingSigninPage.png" width=600 height=400>
 
