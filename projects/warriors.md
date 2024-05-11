@@ -15,8 +15,17 @@ summary: "Rec Center Warriors is a custom social platform tailored for the Unive
 # Home Page
 
 Sign up / login 
+
 <img src = "https://syntax-souljahs.github.io/img/landing-page.png" width=600 height=400>
 
 Logged in
 
 <img src ="https://isai-foglesong.github.io/img/LandingSigninPage.png" width=600 height=400>
+
+# Exercises Page
+
+This page provides the available exercises at the WRC and useful information about the purpose of them and how to perform them. 
+
+<img src = "img/wrc-1.png">
+
+# BuddyPage
